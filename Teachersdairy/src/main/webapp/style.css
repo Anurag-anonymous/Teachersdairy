@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(195, 95, 201, 0.607),rgba(195, 95, 201, 0.607)), url(teacher.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.form-box{
+    width: 100%;
+    max-width: 400px;
+    box-sizing: content-box;
+    height: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    padding: 45px 17px 18px;
+    text-align: center;
+    border-radius: 25px;
+}
+.form-box h1{
+    font-size: 30px;
+    margin-bottom: 60px;
+    color: #e70fc3;
+    position: relative;
+}
+.form-box h1::after{
+    content: '';
+    width: 30px;
+    height: 4px;
+    border-radius: 3px;
+    background: #e70fc3;
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.input-field{
+    background: #eaeaea;
+    margin: 10px;
+    border-radius: 13px;
+    display: flex;
+    align-items: center;
+    max-height: 65px;
+    transition: max-height 0.5s;
+    overflow: hidden;
+    max-width: 900px;
+}
+input{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    padding: 18px 15px;
+}
+.input-field i{
+    margin-left: 10px;
+    color: #555;
+    padding: 15px 10px;
+}
+
+#check{
+    color: #555;
+    border: 0;
+    outline: 0;
+}
+#message{
+    font-size: 13px;
+    text-align: left;
+    margin: 15px 0;
+    display: inline-block;
+    color:#54b3c4 ;
+}
+#Forget{
+    text-align: right;
+    font-size: 13px;
+    text-decoration: none;
+    color: #3c00a0;
+    max-height: 13px;
+    transition: max-height 0.5s;
+    overflow: hidden;
+    margin-right: 15px;
+}
+.btn-field{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-field button{
+    flex-basis: 48%;
+    background: #e70fc3;
+    color: #fff;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    transition: background 1s;
+}
+.input-group{
+    height: 280px;
+}
+.btn-field button.disable{
+    background: #eaeaea;
+    color: #555;
+}
+/* CSS for success message */
+.success-message,
+.error-message {
+    display: none;
+    background-color: #e70fc3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px ;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+        display: block;
+        opacity: 1;
+        transition: opacity 1s;
+    }
+
+    /* Use keyframes to fade out the message after 1 second */
+    @keyframes fadeOut {
+        0% {
+            opacity: 1;
+        }
+        100% {
+            opacity: 0;
+            display: none;
+        }
+    }
+
+    /* Apply the fadeOut animation to the message div */
+     .success-message.fade-out,
+    .error-message.fade-out {
+        animation: fadeOut 1s;
+    }

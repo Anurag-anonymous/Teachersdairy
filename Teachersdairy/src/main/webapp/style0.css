@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.container0{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(195, 95, 201, 0.607),rgba(195, 95, 201, 0.607)), url(teacher0.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.heading{
+    font-size: 30px;
+    margin-bottom: 60px;
+    color: #390458e6;
+    position: relative;
+    text-align: center;
+    transition: rotate(80deg);
+}
+#logo img{
+    outline: 0;
+    border: 0;
+    margin-bottom: 60px;
+    border-radius: 100%;
+}
+.heading2{
+    font-size: 30px;
+    margin-bottom: 50px;
+    color: #390458e6;
+    position: relative;
+    text-align: center;
+}
+.btn{
+    width: 100%;
+    justify-content: space-between;
+}
+.btn button{
+    width: 20%;
+    background: #e70fc3;
+    color: #fff;
+    text-decoration: none;
+    height: 40px;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    transition: background 0.5s;
+}
