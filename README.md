@@ -92,6 +92,7 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 👨‍💻 Author
 
 - **Anurag Pratap Singh**
+  
   B.Tech Student | Java Web Developer
 
 📜 License
