@@ -71,3 +71,8 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 - Session management (clearing local/session storage on load)
 
 - Input validations for all forms
+
+- Screenshots:
+
+  <img width="917" height="474" alt="image" src="https://github.com/user-attachments/assets/66d99917-5914-4400-9d8f-b52c0ed3a7f9" />
+
