@@ -72,7 +72,18 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 
 - Input validations for all forms
 
-- Screenshots:
 
-  <img width="917" height="474" alt="image" src="https://github.com/user-attachments/assets/66d99917-5914-4400-9d8f-b52c0ed3a7f9" />
+
+
+- Screenshots:
+  
+  -<img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/edc7051e-372b-42fe-a340-48c729882084" />
+
+  - <img width="917" height="474" alt="image" src="https://github.com/user-attachments/assets/66d99917-5914-4400-9d8f-b52c0ed3a7f9" />
+  - <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/125e95c4-c3c7-4110-baf0-ff04f897eef6" />
+  - <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/a0913122-05ce-4b71-8c91-9402ad08928a" />
+  -<img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/36c280e0-0e82-492a-aba8-e1af5bae2d19" />
+
+
+
 
