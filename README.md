@@ -48,20 +48,20 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 
 🛠️ Tech Stack
 
-• Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript
 
-• Backend: Java, Servlets, JSP
+- Backend: Java, Servlets, JSP
 
-• Database: MySQL
+- Database: MySQL
 
-• Server: Apache Tomcat
+- Server: Apache Tomcat
 
-• Build Tool/IDE: Eclipse IDE
+- Build Tool/IDE: Eclipse IDE
 
 
 🔒 Security Features
 
-• Password strength enforcement:
+- Password strength enforcement:
 
   - Minimum 8 characters
   
