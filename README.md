@@ -6,41 +6,46 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 🚀 Features
 
 • User Authentication
+  • Registration, Login, Logout with validations
+  • Password reset with validation checks (uppercase, lowercase, number, special character, minimum length)
 
-Registration, Login, Logout with validations
+• Attendance Management
+  • Save and download attendance records
 
-Password reset with validation checks (uppercase, lowercase, number, special character, minimum length)
+• Assignment & Progress Tracking
+  • Upload assignments
+  • Track subject progress
+  • View assignment details
 
-Attendance Management
+• Timetable Management
+  • Upload timetable
+  • Fetch timetable dynamically
 
-Save and download attendance records
+• File Uploads
+  • Multipart file handling with size restrictions
 
-Assignment & Progress Tracking
+• Responsive UI
+  • Built with HTML, CSS (Flexbox, Media Queries)
+  • Password strength checker with live feedback
+  • Loading spinner overlay until the page fully loads
 
-Upload assignments
+• CORS Support
+  • Configured via CorsFilter in web.xml
 
-Track subject progress
 
-View assignment details
+🛠️ Tech Stack
 
-Timetable Management
+• Frontend: HTML, CSS, JavaScript
+• Backend: Java, Servlets, JSP
+• Database: MySQL
+• Server: Apache Tomcat
+• Build Tool/IDE: Eclipse IDE
 
-Upload timetable
 
-Fetch timetable dynamically
+🔒 Security Features
 
-File Uploads
-
-Multipart file handling with size restrictions
-
-Responsive UI
-
-Built with HTML, CSS (Flexbox, Media Queries)
-
-Password strength checker with live feedback
-
-Loading spinner overlay until the page fully loads
-
-CORS Support
-
-Configured via CorsFilter in web.xml
+• Password strength enforcement:
+• Minimum 8 characters
+• At least one uppercase, one lowercase, one digit, and one special character
+• Session management (clearing local/session storage on load)
+• Input validations for all forms
