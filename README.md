@@ -86,7 +86,16 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
   - <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/a0913122-05ce-4b71-8c91-9402ad08928a" />
   
   - <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/36c280e0-0e82-492a-aba8-e1af5bae2d19" />
+  
 
 
+👨‍💻 Author
 
+- **Anurag Pratap Singh**
+  B.Tech Student | Java Web Developer
 
+📜 License
+
+This project is licensed under the MIT License – feel free to use and modify.
+  
+  
