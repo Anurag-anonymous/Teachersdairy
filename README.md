@@ -15,11 +15,14 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 
  • Assignment & Progress Tracking
    • Upload assignments
+   
    • Track subject progress
+   
    • View assignment details
 
  • Timetable Management
    • Upload timetable
+   
    • Fetch timetable dynamically
 
  • File Uploads
@@ -39,16 +42,23 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 🛠️ Tech Stack
 
 • Frontend: HTML, CSS, JavaScript
+
 • Backend: Java, Servlets, JSP
+
 • Database: MySQL
+
 • Server: Apache Tomcat
+
 • Build Tool/IDE: Eclipse IDE
 
 
 🔒 Security Features
 
 • Password strength enforcement:
-• Minimum 8 characters
-• At least one uppercase, one lowercase, one digit, and one special character
+  • Minimum 8 characters
+  
+  • At least one uppercase, one lowercase, one digit, and one special character
+  
 • Session management (clearing local/session storage on load)
+
 • Input validations for all forms
