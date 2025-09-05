@@ -7,6 +7,7 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 
 • User Authentication
   • Registration, Login, Logout with validations
+  
   • Password reset with validation checks (uppercase, lowercase, number, special character, minimum length)
 
 • Attendance Management
