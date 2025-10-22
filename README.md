@@ -99,6 +99,7 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 - **Atishay Singh**
 - **Prateek Chauhan**
 - **Harsh Sharma**
+- **Anurag Pratap Singh**
 
 📜 License
 
