@@ -93,7 +93,12 @@ Built using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL, this project d
 
 - **Anurag Pratap Singh**
   
-  B.Tech Student | Java Web Developer
+  B.Tech Student | Programmer - Developer
+
+🫂 Team Members
+- **Atishay Singh**
+- **Prateek Chauhan**
+- **Harsh Sharma**
 
 📜 License
 
